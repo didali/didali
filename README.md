@@ -1,10 +1,13 @@
-## Hi there 👋
---- 
-🔭 I’m currently a college student
+## Hi👋，I'm didali
+### I'm a backend developer from China.
 
-🌱 I’m currently learning java
+- 🔭 I’m currently a college student
 
-📫 How to reach me [leeo@say521.cn](leeo@say521.cn)
+- 🌱 I’m currently learning **Netty**
+
+- 📫 How to reach me: leeo@say521.cn
+
+
 
 <!--
 **didali/didali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
